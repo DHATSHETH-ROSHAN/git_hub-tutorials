@@ -36,8 +36,10 @@
     git branch -M main
 ## now push to folder in github
     git push origin main
-
-
+## changing from one branch to another
+    git checkout new-branch-name
+## merging branches
+    git merge another-branch-name
 
 ## git definitions
     U - untracked
