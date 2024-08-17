@@ -40,8 +40,9 @@
     git branch -a
 ## changin from one branch to another
     git checkout branchname
-
-
+## to know the changes or difference b/w  branches
+    git diff branchname1..branchname2
+    git diff anotherbranchname
 
 
 ## git definitions
