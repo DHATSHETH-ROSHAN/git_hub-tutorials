@@ -39,7 +39,8 @@
 
 ## to know how many branch in your repository
     git branch -a
-
+## changin from one branch to another
+    git checkout branchname
 
 
 
