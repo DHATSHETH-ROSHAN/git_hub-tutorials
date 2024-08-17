@@ -36,14 +36,10 @@
     git branch -M main
 ## now push to folder in github
     git push origin main
-## to know how many branch in your repository
-    git branch -a
-## changin from one branch to another
-    git checkout branchname
-## to know the changes or difference b/w  branches
-    git diff branchname1..branchname2
-    git diff anotherbranchname
-
+## changing from one branch to another
+    git checkout new-branch-name
+## merging branches
+    git merge another-branch-name
 
 ## git definitions
     U - untracked
@@ -72,5 +68,5 @@
     git branch -M main - rename the branch from master to main and force the push
     git push origin main - push the changes to the remote repository
     git pull origin main - pull the changes from the remote repository
-
+    
 
