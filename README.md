@@ -41,6 +41,14 @@
 ## merging branches
     git merge another-branch-name
     then push it to see the changes
+## giving pull request
+    pull requests-> new pull request
+    base will be main   -   comapring will be updated or new featured things
+    create pull request
+    give comment
+
+
+
 
 
 ## git definitions
