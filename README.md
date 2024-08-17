@@ -11,4 +11,7 @@
     git push origin main
     origin = http link 
     main  = branch
-
+## create file in git hub
+    add file -> new file ->
+## then how to bring the file into our system
+    git pull origin main
