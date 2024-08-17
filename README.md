@@ -40,6 +40,8 @@
     git checkout new-branch-name
 ## merging branches
     git merge another-branch-name
+    then push it to see the changes
+
 
 ## git definitions
     U - untracked
