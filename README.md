@@ -36,7 +36,6 @@
     git branch -M main
 ## now push to folder in github
     git push origin main
-
 ## to know how many branch in your repository
     git branch -a
 ## changin from one branch to another
